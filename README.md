@@ -12,4 +12,4 @@
     - "ZIP Code" - 5 characters;
     - "PESEL" - 11 characters;
 - Hint, when hovering the cursor over the "Phone number" field, allowed phone formats;
-- Fields "E-mail", "Phone number", "ZIP Code", "PESEL" has a pattern check;
+- Fields "E-mail", "Phone number", "ZIP Code", "PESEL" have a pattern check;
