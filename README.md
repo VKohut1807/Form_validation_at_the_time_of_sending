@@ -2,7 +2,7 @@
 
 ![examples](https://user-images.githubusercontent.com/48514587/173414570-53f01042-86e9-4610-95da-dc8bd0cefbc8.gif)
 
-## Examples of element dimensions:
+## Description:
 - Bootstrap v5.1 is used for stylization;
 - Fields "Name", "E-mail", "ZIP Code" are required;
 - Field "PESEL" is required if option is not selected - "I do not have a PESEL number";
